@@ -23,3 +23,9 @@
 ```
 ![image](https://user-images.githubusercontent.com/58906858/214489622-d3b0215e-a37c-4ba8-83fb-ad18d01c318b.png)
 
+## WillPopScope의 사용
+```
+WillPopScope를 사용하면 Scaffold 위젯을 감싸서 뒤로가기 버튼을 가로챌 수 있습니다.
+위에서 생성한 함수를 onWillPop 프로퍼티의 값으로 전달하고 onWillPop 함수의 리턴값이 true일때
+뒤로가기 버튼이 작용하여 앱이 종료됩니다. false일 때는 화면에 남게 됩니다(2초 동안 뒤로가기 버튼이 안눌러졌을때).
+```

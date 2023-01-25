@@ -1,16 +1,10 @@
 # backbutton
 
-A new Flutter project.
+```
+보통의 앱들은 뒤로가기 버튼을 눌러서 앱 종료를 할 때 
+사용자들의 앱 종료 의사를 한번 더 물어보고 종료를 합니다.
 
-## Getting Started
+뒤로가기 버튼을 눌렀을 때 토스트 형식의 메시지를 출력하면서
+앱 종료 의사를 한 번더 물어보는 기능을 추가해보았습니다.
+```
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

@@ -8,3 +8,9 @@
 앱 종료 의사를 한 번더 물어보는 기능을 추가해보았습니다.
 ```
 
+## 필요한 패키지 추가
+```
+토스트 메시지를 띄우기 위한 fluttertoast를
+추가하였습니다.  
+```
+![image](https://user-images.githubusercontent.com/58906858/214489286-4f8dd691-4ced-4671-9d68-a8fa5c65a33d.png)

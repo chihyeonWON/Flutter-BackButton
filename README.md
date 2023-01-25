@@ -14,3 +14,12 @@
 추가하였습니다.  
 ```
 ![image](https://user-images.githubusercontent.com/58906858/214489286-4f8dd691-4ced-4671-9d68-a8fa5c65a33d.png)
+
+## 토스트 함수 로직 
+```
+뒤로가기 한번을 누르고 2초안에 한 번더 누르면 앱이 종료되어야 하기 때문에
+현재 시간을 now로 선언하고 difference 메소드를 사용해서 시간 차이를 구해주었습니다.
+2초 안에 뒤로가기 버튼을 두 번 누르지 않으면 toast 메시지가 출력됩니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/214489622-d3b0215e-a37c-4ba8-83fb-ad18d01c318b.png)
+
